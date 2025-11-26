@@ -67,7 +67,7 @@ We invest heavily in our people so they can deliver exceptional solutions for ou
 * 💼 Careers: [https://www.azumo.com/join-our-team](https://azumo.com/join-our-team)
 * ✉️ General Inquiries: [info@azumo.com](mailto:info@azumo.com)
 * 📨 Sales: [sales@azumo.com](mailto:sales@azumo.com)
-* 🔗 LinkedIn: [https://www.linkedin.com/company/azumo](https://www.linkedin.com/company/azumo)
+* 🔗 LinkedIn: [https://www.linkedin.com/company/azumo](https://www.linkedin.com/company/azumo-llc/)
 
 _____
 © 2025 Azumo. All rights reserved.
