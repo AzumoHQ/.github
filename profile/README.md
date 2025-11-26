@@ -18,10 +18,11 @@ At **Azumo**, we build intelligent, scalable, and high-performance software solu
 
 > _We empower your teams to move faster, innovate smarter, and scale with confidence._
 
-1. 🏆 **Elite Nearshore Engineers**, aligned with U.S. time zones  
-2. 🚀 **Fast Onboarding and Delivery**, agile team integration  
-3. 🔒 **SOC 2–Aligned Engineering Practices**  
-4. 🤝 **Long-Term Strategic Partnership**, not just contractors  
+🤖 **Deep Expertise in AI** — delivering production-ready AI solutions for many years  
+🏆 **Elite Nearshore Engineers**, aligned with U.S. time zones  
+🚀 **Fast Onboarding and Delivery**, agile team integration  
+🔒 **SOC 2–Aligned** Engineering Practices  
+🤝 **Long-Term Strategic Partnership**, not just contractors  
 
 ## Recent Work
 
